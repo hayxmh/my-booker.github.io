@@ -1,0 +1,5 @@
+云星日记：https://shenhuawl.com
+博客专属服务器：https://icoio.cn
+影视网：https://ax.jx.cn
+
+复制Menu.php文件打开var/Widget文件夹粘贴即可
